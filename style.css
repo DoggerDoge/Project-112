@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(0, 100, 255);
+}
+
+.heading {
+    background-color: white;
+    border-radius: 10px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 20px;
+    height: auto;
+    width: 250px;
+}
+
+#camera {
+    height: 400;
+    width: 400;
+    border-style: dashed;
+    border-radius: 20px;
+}
+
+#result {
+    height: 400;
+    width: 400;
+    border-style: dashed;
+    border-radius: 20px;
+}
+
+label {
+    background-color: white;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#captured_image {
+    height: 400;
+    width: 400;
+}
+
+#name, #emojiIcon {
+    font-size: 30;
+    font-weight: bolder;
+}
